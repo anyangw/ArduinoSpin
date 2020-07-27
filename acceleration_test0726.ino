@@ -28,8 +28,6 @@ void loop(){
 }
 
 
-
-
 /*//the part if needed to control target rpm w/o PC input
 void loop() {
   int val;
